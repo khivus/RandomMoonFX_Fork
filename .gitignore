@@ -399,3 +399,15 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.idea/
+
+# Local Lethal Company / BepInEx runtime files
+BepInEx/
+Lethal Company_Data/
+doorstop_libs/
+doorstop_config.ini
+winhttp.dll
+zigzag.randommoonfx.cfg
+
+# Locally assembled mod packages
+dist/
